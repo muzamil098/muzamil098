@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/muzamil098/muzamil098/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/muzamil098/muzamil098/output/snake.svg" alt="Snake animation" /> -->
 
 ###
