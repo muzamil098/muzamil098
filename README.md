@@ -1,4 +1,4 @@
-<h4 align="left">Hi there! 👋 I'm Muzamil<br>Frontend Engineer<br><br>I'm a passionate Frontend Engineer with expertise in React, Node.js, MongoDB, and Express.js, along with other modern frontend tools. I love building scalable, responsive, and user-friendly web applications. My techstack is attached below.<br><br>🛠️ Tech Stack<br>Frontend: React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, React Context APIs,<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB, Firebase<br><br>Tools: Git, GitHub, VS Code, Postman, Figma, Cursor<br><br>💼 What I Do<br>- Develop high-performance web applications with clean, maintainable code.<br>- Integrate APIs in web apps using efficient methods to optimize web applications<br>- Build responsive and accessible UIs for seamless user experiences.</h4>
+<h4 align="left">Hi there! 👋 I'm Muzamil<br>Freelance Full-Stack Developer<br><br>Full-stack dev who ships, not just codes. I build production-grade web & mobile apps with React, React Native, Next.js & Node.js — then wire them up end-to-end with Supabase and AWS (Lambda, RDS, API Gateway). Currently building PowerSchool plugins at scale with Oracle SQL & Python Lambdas. Freelancing on Fiverr & Upwork, turning "can you build this?" into shipped products.<br><br>🛠️ Tech Stack<br>Frontend: React, React Native, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, React Context APIs<br><br>Backend: Node.js, Express.js, Python (AWS Lambda functions)<br><br>Cloud & Infra: AWS Lambda, AWS RDS, AWS API Gateway<br><br>Database: MongoDB, Supabase, Oracle SQL, Firebase<br><br>Tools: Git, GitHub, VS Code, Postman, Figma, Cursor<br><br>💼 What I Do<br>- Build and ship full-stack web & mobile apps end-to-end, from UI to cloud infra.<br>- Develop PowerSchool plugins integrating Oracle SQL with Python-based AWS Lambda functions.<br>- Design and build serverless backends on AWS (Lambda, RDS, API Gateway) and Supabase.<br>- Deliver freelance projects on Fiverr & Upwork with clean, maintainable, production-ready code.<br>- Build responsive and accessible UIs for seamless user experiences.</h4>
 
 ###
 
@@ -20,9 +20,23 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react native logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="30" alt="oracle logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -34,23 +48,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="30" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
